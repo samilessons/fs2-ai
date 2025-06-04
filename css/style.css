@@ -307,7 +307,9 @@ main {
       p {
         color: var(--gray70);
         margin-top: 0;
-        margin-bottom: 50px;
+      }
+      button {
+        margin-top: 34px;
       }
     }
 
